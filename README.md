@@ -1,5 +1,5 @@
 # Capstone 3: EmporiUm Northeast Region Sales Analysis
-
+10 Minute presentation link : https://drive.google.com/file/d/1NJJs23Hyedb-_d6f7PgbDNmXm0MBxZbd/view?usp=sharing
 ## Project Overview
 A Power BI report analyzing four years of sales data (2022-2025) for EmporiUm, 
 a virtual student bookstore, across the Northeast region (Maryland, Massachusetts, 
